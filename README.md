@@ -1,0 +1,2 @@
+# staj
+komut ögrenme
