@@ -1,2 +1,3 @@
 # staj
-komut ögrenme
+##komut ögrenme
+### git commit -m "açıklayıcı yorum"
